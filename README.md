@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @AchintCodes
-- 👀 I’m interested in learning new skills 
-- 🌱 I’m currently studying software engineering technology ((AI)
-- 💞️ I’m looking to collaborate on projects and some intersting ideas .
+- Hi, I’m Achint 
+- I’m currently studying Software Engineering Technology - Aritificial Intelligence.
+- My passion lies in coding, and I'm proficient in C#, Java and Python.
+- Outside of the digital realm, I enjoy  swimming and Table Tennis.
+- Currently, I'm expanding my skill set by learning React.js and Node.js to enhance my web development abilities.
+
+  
 
 
 
